@@ -1,5 +1,4 @@
-<h1 align="center"><strong>AnggaxZx
-Pterodactyl Installer</strong></h1>
+<h1 align="center"><strong>Pterodactyl Installer AnggaxZx</strong></h1>
 
 With this script you can easily install, update or delete Pterodactyl Panel. Everything is gathered in one script.
 
@@ -24,7 +23,7 @@ Supports newest version of Pterodactyl! This script is one of the only ones that
 
 # Support
 I have created a channel on my Discord Server where you can get support.
-https://discord.gg/3UUrgEhvJ2
+https://discord.gg/AnggaxZx
 
 # Supported OS & Webserver
 Supported operating systems.
@@ -52,13 +51,13 @@ If you find errors, feel free to open an "Issue" on GitHub.
 # Interactive/Normal installation
 The recommended way to use this script.
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/guldkage/AnggaxZx-Installer/main/installer.sh)
 ```
 
 ### Raspbian
 Only for raspbian users. They might need a extra < in the beginning.
 ```bash
-bash < <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
+bash < <(curl -s https://raw.githubusercontent.com/guldkage/AnggaxZx-Installer/main/installer.sh)
 ```
 
 # Autoinstall / Developer Installation
@@ -84,5 +83,5 @@ You must be precise when using this script. 1 typo and everything can go wrong.
 It also needs to be run on a fresh version of Ubuntu or Debian.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/autoinstall.sh)  <fqdn> <ssl> <email> <username> <firstname <lastname> <password> <wings>
+bash <(curl -s https://raw.githubusercontent.com/guldkage/AnggaxZx-Installer/main/autoinstall.sh)  <fqdn> <ssl> <email> <username> <firstname <lastname> <password> <wings>
 ```
